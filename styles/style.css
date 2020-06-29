@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.profile-pic{
+    border-radius:150px;
+}
+
+li{
+    display: inline;
+    margin: 10px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 10px;
+   
+}
+
+.footer{
+    
+}
