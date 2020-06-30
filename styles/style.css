@@ -36,7 +36,16 @@
 
 .footer{
     display: flex;
+    width: 100%;
     flex-direction: column;
+    position: absolute;
+    bottom: 0;
+}
+
+.footer2 {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
 }
 
 li{
